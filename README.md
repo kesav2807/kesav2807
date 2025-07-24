@@ -1,57 +1,67 @@
-<h1 align="center">Hi 👋, I'm Kesavan S</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💻 MERN Stack | 🎯 Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Kesavan</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | MERN Stack | React Native | UI/UX Enthusiast</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+---
+
+- 🔭 I’m currently working on **MERN Stack Projects, Social Media Apps, Admin Dashboards, and Real-time Chat Apps**
+- 🌱 Learning: **Advanced React Native, REST APIs, and Secure Cloud Deployments**
+- 💬 Ask me about: **React, Node.js, MongoDB, Express, React Native, and UI Design**
+- 📫 Reach me at: **kesevansunder007@gmail.com**
+- 📱 WhatsApp: **+91 8531841017**
+- ⚡ Fun fact: _I’m always building something unique — powered by Murugan’s blessings 🦚✨_
+
+---
+
+### 💻 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kesav2807&label=Profile%20views&color=0e75b6&style=flat" alt="kesav2807" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🌱 Currently learning **TypeScript, DevOps, and System Design**
-- 🛠️ I work with **React, Node.js, Express, MongoDB**
-- 🔧 Building full-stack applications with performance and scalability in mind
-- ⚡ Fun fact: I love solving tricky bugs & writing clean, readable code
-- 📫 Reach me at: [kesevansunder007@gmail.com](mailto:kesevansunder007@gmail.com)
-
----
-
-### 🧰 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kesav2807&show_icons=true&theme=tokyonight" alt="Kesavan's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesav2807&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kesav2807&show_icons=true&theme=radical" alt="Kesav's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kesav2807&theme=tokyonight&hide_border=false"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesav2807&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 
-<p>
-  <a href="mailto:kesevansunder007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/kesav2807"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<p align="left">
+  <a href="mailto:kesevansunder007@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/kesavansunder/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/918531841017" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/mr_tom_2807" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
 
-> “Just a Full-Stack Developer who thrives on cracking tricky problems and leveling up my skills. Hit me up for a coding challenge!”
+### ✨ Quote I Live By
+
+> _“My Life, My Rules. Don’t expect for anything.🌚”_
+
+---
 
