@@ -1,75 +1,72 @@
-<h1 align="center">வணக்கம்! I'm Kesavan 👋</h1>
-<h3 align="center">Full-Stack Developer | MERN Expert | React Native Enthusiast | Tech Dreamer 🚀</h3>
+<h1 align="center">Hey there, I'm Kesavan 👨‍💻</h1>
+<h3 align="center">Full-Stack Developer | MERN Expert | Mobile App Creator | Tamil Techie 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif"/>
+  <img src="https://raw.githubusercontent.com/kesav2807/kesav2807/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-### 💡 About Me
+### 🙋‍♂️ Who Am I?
 
-- 👨‍💻 Passionate about building **smart web & mobile applications**
-- 🔭 Currently working on:  
-  - **Admin Dashboards**  
-  - **Social Media Platforms**  
-  - **Realtime Apps with Socket.io & MongoDB**
-- 🎯 My goal: **Build clean UI, powerful backend, and deliver great user experiences**
-- ⚡ Powered by: _Murugan Thunai 🦚✨_
+- 🔥 I build **dynamic web & mobile apps** with ❤️ and JavaScript
+- 🎯 Focused on building **real-world apps** with awesome UI and clean backend
+- 🧠 Constantly learning new tools & tech (Next.js, Cloud, Native APIs)
+- 🦚 Faith: **Murugan Thunai ✨**
+- 😎 Fun fact: I don't just write code — **I bring ideas to life**
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack I Love
 
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|-------|
-| ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | ![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Socket.io](https://img.shields.io/badge/-Socket.io-000000?style=flat-square&logo=socket.io)
+
+**Database & Auth:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=json-web-tokens)
+![Firebase](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase)
+
+**Tools:**  
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 
 ---
 
-### 📈 My GitHub Journey
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kesav2807&show_icons=true&theme=vision-friendly-dark" alt="Kesav's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesav2807&theme=dark" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesav2807&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kesav2807&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesav2807&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesav2807&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 
-<p align="left">
-  <a href="mailto:kesevansunder007@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/918531841017" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kesavansunder/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/mr_tom_2807" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+| Platform   | Link |
+|------------|------|
+| 📧 Email   | [kesevansunder007@gmail.com](mailto:kesevansunder007@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/kesavansunder](https://www.linkedin.com/in/kesavansunder/) |
+| 📱 WhatsApp | [+91 8531841017](https://wa.me/918531841017) |
+| 📸 Instagram | [@mr_tom_2807](https://instagram.com/mr_tom_2807) |
 
 ---
 
-### 🧠 Quote I Live By
+### 🧠 Life Motto
 
-> _"Don’t wait for opportunity. Create it. My life, my rules 🌚"_
-
----
-
-### 🚀 Bonus
-
-- 🛠 Favorite Tools: `VSCode`, `Postman`, `MongoDB Compass`, `Android Studio`
-- 💬 Tamil Bio: _“கேசவன் — டெவலப்பர் ஆக்கப்படும் கலைஞன்”_
+> _“Code Smart. Live Free. Murugan Thunai ✨”_
 
 ---
 
