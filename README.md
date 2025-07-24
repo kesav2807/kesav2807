@@ -1,71 +1,70 @@
 <h1 align="center">வணக்கம் 🙏 I'm Kesavan</h1>
-<h3 align="center">Full-Stack Developer | React Native Expert | MERN Stack | Tamil Coder 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer | React Native Expert | MERN Stack | Tamil Techie 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/3209845a1a2d6c748d9cb524df37f8eb.gif" width="400" alt="developer gif" />
 </p>
 
 ---
 
-### 👨‍💻 About Me | என்னைப்பற்றி
+### 👨‍💻 About Me | என்னைப் பற்றி
 
-- 💻 I’m a Full-Stack Developer crafting modern web & mobile apps using the **MERN Stack**  
-  **நான் ஒரு முழு அடுக்கு டெவலப்பர் – நவீன இணைய மற்றும் மொபைல் ஆப்ஸ் உருவாக்குகிறேன்.**
+- 💼 **Full-Stack Developer** specialized in MERN & React Native  
+  💡 **முழு அடுக்கு டெவலப்பர்** — இணைய மற்றும் மொபைல் செயலிகள் உருவாக்குகிறேன்
 
-- 📱 Building real-time features using **Socket.IO**, **JWT**, and **MongoDB**  
-  **நேரடி செயல்பாடுகள் கொண்ட செயலிகள் உருவாக்குகிறேன் (Chat, Notifications).**
+- 🚀 Focused on **real-time systems** with chat, auth, APIs, and admin dashboards  
+  ⚙️ **நேரடி செயலிகள்**, சாட், ஜேடபிள்யூடி, டாஷ்போர்டு UI
 
-- 🎯 UI/UX + backend performance = my development style  
-  **அழகான வடிவமைப்பு மற்றும் வலிமையான பின்நிலை எனது கையெழுத்து.**
+- 🧠 Constantly learning new tech like **Next.js**, **Firebase**, and **TypeScript**
 
-- 🧠 Exploring **Next.js**, **Firebase**, and **TypeScript**  
-  **எப்போதும் புதிய தொழில்நுட்பங்களை கற்க ஆர்வம்.**
+- 🎨 Passionate about creating clean UI and scalable backend architecture  
+  ✨ என் கோட் குறிமொழி: *"Design neat. Build powerful."*
 
-- ⚡ Powered by: **Murugan Thunai 🦚✨**
+- 🦚 **Murugan Thunai** — Always my backup ⚡
 
 ---
 
-### 🛠 Tech Stack | நான் பயன்படுத்தும் தொழில்நுட்பங்கள்
+### 🛠 Tech Stack | தொழில்நுட்பங்கள்
 
-**Frontend (முன் மேடை):**  
-React.js, React Native, HTML, CSS, TailwindCSS
+**Frontend (முன்-பக்கம்):**  
+React, React Native, Tailwind CSS, HTML, CSS, JavaScript
 
-**Backend (பின்நிலை):**  
+**Backend (பின்பக்கம்):**  
 Node.js, Express.js, REST APIs, Socket.io, JWT
 
 **Database (தரவுத்தொகுப்பு):**  
 MongoDB, Firebase
 
 **Tools (கருவிகள்):**  
-VS Code, Git, Postman, Android Studio
+VS Code, Git, Postman, Android Studio, MongoDB Compass
 
 ---
 
-### 📈 GitHub Stats | எனது GitHub புள்ளிவிவரங்கள்
+### 📊 GitHub Stats | என் புள்ளிவிவரங்கள்
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kesav2807&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kesav2807&show_icons=true&theme=vue" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesav2807&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesav2807&theme=vue" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesav2807&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesav2807&layout=compact&theme=vue" />
 </p>
 
 ---
 
-### 🌐 Contact Me | தொடர்புக்கு
+### 📞 Contact Me | தொடர்புக்கு
 
-| 📧 Email         | [kesevansunder007@gmail.com](mailto:kesevansunder007@gmail.com) |
-|------------------|------------------------------------------------------------------|
-| 💼 LinkedIn      | [linkedin.com/in/kesavansunder](https://www.linkedin.com/in/kesavansunder/) |
-| 📱 WhatsApp      | [+91 8531841017](https://wa.me/918531841017) |
-| 📸 Instagram     | [@mr_tom_2807](https://instagram.com/mr_tom_2807) |
-
----
-
-### 💬 Quote | என் வாழ்கை வாசகம்
-
-> _"My Life. My Rules. Murugan Thunai. ✨ நான் என்னவேண்டும் என்றால் அதுவாகவே இருப்பேன்!"_
+| 📧 Email       | [kesevansunder007@gmail.com](mailto:kesevansunder007@gmail.com)       |
+|----------------|------------------------------------------------------------------------|
+| 💼 LinkedIn    | [linkedin.com/in/kesavansunder](https://www.linkedin.com/in/kesavansunder/) |
+| 📱 WhatsApp    | [+91 8531841017](https://wa.me/918531841017)                          |
+| 📸 Instagram   | [@mr_tom_2807](https://instagram.com/mr_tom_2807)                     |
 
 ---
 
+### 🧠 Quote I Live By | என் வாழ்கை வாசகம்
+
+> _"Code with confidence. Live with clarity. Murugan Thunai 🦚"_  
+> _“எதிர்பார்க்காதே… நீ செய்ததை நம்பு!”_
+
+---
