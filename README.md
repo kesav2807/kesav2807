@@ -1,5 +1,5 @@
 <h1 align="center">🙏 வணக்கம்! I'm Kesavan</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN | React Native | 🇮🇳 Tamil Techie</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | React Native | 🇮🇳 Tamil Tech Creator</h3>
 
 <p align="center">
   <img src="https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png" width="500" alt="Full Stack Developer Banner" />
@@ -9,15 +9,15 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer crafting modern web & mobile applications  
-- 🔐 Expert in Auth, REST APIs, MongoDB, and scalable system design  
-- 📱 Creating Admin Dashboards, Real-time Apps, and UI-rich platforms  
-- 🧠 Currently exploring: Next.js, TypeScript, Firebase, DevOps  
-- 🦚 **Murugan Thunai** – my eternal backup ⚡
+- 💼 I build powerful, scalable **Web & Mobile** applications  
+- 🔐 Specialized in Auth, JWT, MongoDB, REST APIs  
+- 🚀 Real-time Systems, Admin Dashboards, & Social Platforms  
+- 📚 Currently diving into: **Next.js**, **TypeScript**, **DevOps**  
+- 🦚 **Murugan Thunai** – My energy, my backup ⚡
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,express,mongodb,tailwind,git" />
@@ -28,19 +28,19 @@
 ## 🧰 Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,figma,canva,docker,vercel,netlify,photoshop,notion,trello" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,figma,canva,photoshop,capcut,notion,trello,docker,vercel,netlify" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kesav2807&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kesav2807&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kesav2807&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kesav2807&theme=radical" alt="GitHub Streak" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesav2807&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesav2807&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -68,5 +68,5 @@
 </p>
 
 <p align="center">
-  💻 Keep Coding • 🧠 Keep Learning • 🇮🇳 Be Proud to be a Tamil Dev!
+  💻 Keep Coding • 🎯 Keep Learning • 🇮🇳 Be Proud to be a Tamil Dev!
 </p>
