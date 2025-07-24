@@ -1,23 +1,23 @@
-<h1 align="center">🌟 வணக்கம்! I'm Kesavan</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | React Native | 🇮🇳 Tamil Tech Creator</h3>
+<h1 align="center">🙏 வணக்கம்! I'm Kesavan</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN | React Native | 🇮🇳 Tamil Techie</h3>
 
 <p align="center">
-  <img src="https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png" width="500" alt="developer banner" />
+  <img src="https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png" width="500" alt="Full Stack Developer Banner" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔥 Passionate about building Full-Stack Web & Mobile apps  
-- 🔐 Expert in Authentication, JWT, REST APIs, MongoDB  
-- 📱 Creating Social Platforms, Admin Dashboards & Real-time Systems  
-- 🧠 Learning: Next.js • TypeScript • Firebase • CI/CD  
-- 🦚 **Murugan Thunai** — Always my tech backup ⚡
+- 💻 Full-Stack Developer crafting modern web & mobile applications  
+- 🔐 Expert in Auth, REST APIs, MongoDB, and scalable system design  
+- 📱 Creating Admin Dashboards, Real-time Apps, and UI-rich platforms  
+- 🧠 Currently exploring: Next.js, TypeScript, Firebase, DevOps  
+- 🦚 **Murugan Thunai** – my eternal backup ⚡
 
 ---
 
-## 🧑‍💻 Tech Stack (Only Icons)
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,express,mongodb,tailwind,git" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧰 Tools I Use (Only Icons)
+## 🧰 Tools I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,figma,canva,docker,vercel,netlify,photoshop,notion,trello" />
@@ -38,14 +38,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kesav2807&show_icons=true&theme=radical" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesav2807&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kesav2807&theme=radical" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesav2807&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📬 Connect with Me (Only Icons)
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="mailto:kesevansunder007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -56,12 +56,17 @@
 
 ---
 
-## 🧠 Quote I Live By
+## 🧠 My Motto
 
 > _"My Life. My Rules. Don’t expect anything. Believe in your work 🌚"_  
 > _“எதிர்பார்ப்பு இல்லாமல் செயல் — வெற்றியின் உண்மையான பாதை”_
 
 ---
 
-## 🙌 Thanks for Visiting!  
-_Keep coding • Keep creating • Be proud to be a Tamil Techie 💻🇮🇳_
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kesav2807&label=Profile%20Views&color=0e75b6&style=flat" alt="kesav2807" />
+</p>
+
+<p align="center">
+  💻 Keep Coding • 🧠 Keep Learning • 🇮🇳 Be Proud to be a Tamil Dev!
+</p>
