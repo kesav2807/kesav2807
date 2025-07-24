@@ -1,42 +1,42 @@
 <h1 align="center">வணக்கம் 🙏 I'm Kesavan</h1>
-<h3 align="center">Full-Stack Developer | React Native | MERN Stack | Tamil Techie 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | React Native | Tamil Techie 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ebd62d.gif" width="400" alt="Developer GIF" />
+  <img src="https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png" width="600" alt="Full Stack Developer Image" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me | என்னைப் பற்றி
 
-- 💼 Full-Stack Developer building modern **Web** & **Mobile** apps  
+- 💼 Full-Stack Developer crafting scalable **Web** & **Mobile** apps  
   💡 நவீன இணைய மற்றும் மொபைல் செயலிகளை உருவாக்கும் முழு அடுக்கு டெவலப்பர்
 
-- 🛠 Skilled in **React, React Native, Node.js, Express, MongoDB, Firebase**
+- 🚀 Building: Social Media Apps | Admin Dashboards | Real-time Systems
 
-- ⚙️ I create **real-time chat apps**, **admin dashboards**, **auth systems**
+- 🔐 Auth, JWT, REST APIs, MongoDB — handled with care & clean code
 
-- 🧠 Constantly learning **Next.js**, **Cloud Deployment**, and **TypeScript**
+- 🧠 Learning: Next.js • Firebase • TypeScript • DevOps Tools
 
-- 🦚 **Murugan Thunai** is my strength, always guiding me ✨
+- 🦚 **Murugan Thunai** — Always my backup ⚡
 
 ---
 
-### 🔧 Tech Stack | தொழில்நுட்பங்கள்
+### 🛠 Tech Stack | தொழில்நுட்பங்கள்
 
 **Frontend:** React.js, React Native, Tailwind CSS, HTML, CSS  
 **Backend:** Node.js, Express.js, REST APIs, JWT, Socket.io  
 **Database:** MongoDB, Firebase  
-**Tools:** VS Code, Postman, Git, Android Studio  
+**Tools:** Git, VS Code, Postman, Android Studio  
 
 ---
 
-### 📈 GitHub Stats | என் புள்ளிவிவரங்கள்
+### 📊 GitHub Stats | என் புள்ளிவிவரங்கள்
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kesav2807&show_icons=true&theme=default" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kesav2807&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesav2807&theme=default" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesav2807&layout=compact&theme=default" />
 </p>
