@@ -1,62 +1,61 @@
-# 👋 வணக்கம்! I'm Kesavan S
+# 👋 Hi, I'm Kesavan S
 
-<div align="center">
-
-### Junior Full Stack Developer
-
-**MERN Stack · React Native · Node.js · Express.js · MongoDB · REST APIs**
-
-<p>
-  Building reliable, scalable and user-focused Web & Mobile applications.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=800&lines=Junior+Full+Stack+Developer;MERN+Stack+Developer;React+Native+Developer;Building+Web+%26+Mobile+Applications;Turning+Ideas+Into+Digital+Products"
+    alt="Typing Animation"
+  />
 </p>
 
-<br>
+<p align="center">
+  <strong>
+    MERN Stack • React Native • Node.js • Express.js • MongoDB • REST APIs
+  </strong>
+</p>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=750&lines=Junior+Full+Stack+Developer;MERN+Stack+Developer;React+Native+Developer;Web+%26+Mobile+Application+Developer;Building+Modern+Digital+Products"
-  alt="Typing SVG"
-/>
+<p align="center">
+  <a href="https://github.com/kesav2807">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kesavan-sk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kesavan-sk.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:kesevansunder007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<br><br>
-
-<a href="https://github.com/kesav2807">
-<img src="https://img.shields.io/badge/GitHub-kesav2807-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/kesavan-sk/">
-<img src="https://img.shields.io/badge/LinkedIn-Kesavan%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://kesavan-sk.web.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  🇮🇳 Tamil Nadu, India
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a **Junior Full Stack Developer** with hands-on experience in **MERN Stack and React Native**, passionate about building user-friendly, responsive and reliable software solutions.
+I'm a **Junior Full Stack Developer** with experience in **MERN Stack and React Native**, focused on building reliable, responsive and user-friendly applications.
 
-I enjoy solving problems, learning new technologies and transforming ideas into practical digital products.
+I enjoy working across the complete development lifecycle — from designing interfaces and building reusable frontend components to developing APIs, integrating databases, implementing authentication and deploying applications.
 
-### What I Work With
+### My Development Focus
 
-- ⚛️ React.js
-- 📱 React Native
-- 🟢 Node.js
-- 🚂 Express.js
+- ⚛️ React.js & React Native
+- 🟢 Node.js & Express.js
 - 🍃 MongoDB
+- 🔗 REST API Development
 - 🔐 JWT Authentication & Authorization
 - 👥 Role-Based Access Control
-- 🔗 REST API Development
 - 📊 Admin Dashboards
-- 🧾 Billing & Invoice Systems
+- 📱 Cross-Platform Mobile Applications
+- 🧾 Billing & Invoice Management
 - 📄 PDF / PPT Report Generation
 - 🗺️ Google Maps API
-- 🧪 Cypress
-- 🎨 Figma & Responsive UI
+- 🧪 Cypress Testing
+- 🎨 Figma to Responsive UI
+- 🤖 AI-Assisted Development
 
 > 🦚 **Murugan Thunai — My energy, my backup.**
 
@@ -64,301 +63,302 @@ I enjoy solving problems, learning new technologies and transforming ideas into 
 
 # 💼 Professional Experience
 
-## 🟣 Junior Developer
+## Junior Developer
 
 ### Bharathi Media and Event Solutions
 
-**January 2026 – Present**
+`January 2026 – Present`
 
-- Developed and deployed Web & Mobile applications using **React, React Native and Node.js**.
-- Worked on **Advertisement Management systems**.
-- Developed **Billing and Invoice systems**.
-- Implemented automated **PDF/PPT reporting**.
-- Integrated REST APIs for business applications.
-- Worked with end-to-end application testing using **Cypress**.
-- Contributed to enterprise application workflows.
+- Develop and deploy Web & Mobile applications using **React, React Native and Node.js**.
+- Work on **Advertisement Management and Billing systems**.
+- Develop automated **PDF/PPT reporting workflows**.
+- Build and integrate REST APIs.
+- Work with end-to-end application testing using **Cypress**.
+- Contribute to enterprise applications and business workflows.
 
 ---
 
-## 🔵 Software Developer Trainee Intern
+## Software Developer Trainee Intern
 
 ### Spangles Infotech
 
-**May 2025 – December 2025**
+`May 2025 – December 2025`
 
 - Translated high-fidelity **Figma designs into React Native screens**.
 - Built reusable mobile UI components.
-- Implemented application routing using **React Navigation**.
+- Implemented application navigation using **React Navigation**.
 - Developed the **Textile Admin Dashboard & E-Commerce platform**.
 - Implemented secure **Role-Based Access Control (RBAC)**.
 - Worked with React.js, React Native, Node.js, Express.js and MongoDB.
 
 ---
 
-## 🟢 Software Developer
+## Software Developer
 
 ### Offer360 Technologies
 
 - Developed the **E-Gold digital gold investment platform**.
-- Implemented **AR virtual try-on** experiences.
+- Implemented **AR virtual try-on** functionality.
 - Worked with **MediaPipe and React Webcam**.
-- Developed interactive animations using **Framer Motion**.
+- Created interactive animations using **Framer Motion**.
 - Implemented multilingual support using **react-i18next**.
 
 ---
 
-# 🛠️ Technical Skills
+# 🧰 Tech Stack
 
-## 🎨 Frontend Technologies
+## Frontend
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,tailwind,bootstrap" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,tailwind,bootstrap" />
 </p>
 
-<p align="center">
-
-<strong>
-HTML5 · CSS3 · JavaScript · TypeScript · React.js · React Native · Next.js · Tailwind CSS · Bootstrap
-</strong>
-
-</p>
+| Technology | Focus |
+|---|---|
+| HTML5 | Semantic Web Development |
+| CSS3 | Responsive UI |
+| JavaScript | Application Development |
+| TypeScript | Type-Safe Development |
+| React.js | Web Applications |
+| React Native | Mobile Applications |
+| Next.js | Modern Web Applications |
+| Tailwind CSS | UI Development |
+| Bootstrap | Responsive Components |
 
 ---
 
-## ⚙️ Backend & Database
+## Backend & Database
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-<p align="center">
+`Node.js` · `Express.js` · `MongoDB` · `MySQL` · `Firebase`
 
-<strong>
-Node.js · Express.js · MongoDB · MySQL · Firebase · REST APIs · JWT
-</strong>
-
-</p>
+`REST APIs` · `JWT` · `Authentication` · `Authorization`
 
 ---
 
-## 🔧 Development Tools
+## Development Tools
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify" />
 </p>
 
-<p align="center">
+`Git` · `GitHub` · `VS Code` · `Postman` · `MongoDB Compass`
 
-<strong>
-Git · GitHub · VS Code · Postman · MongoDB Compass · Docker · Vercel · Netlify
-</strong>
-
-</p>
+`Docker` · `Vercel` · `Netlify`
 
 ---
 
-## 🎨 Design & Productivity
+## Design & Creative Tools
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
-
-</p>
-
-<p align="center">
-
-<strong>
-Figma · Canva · Photoshop · CapCut · Notion · Trello
-</strong>
-
-</p>
+`Figma` · `Canva` · `Photoshop` · `CapCut`
 
 ---
 
-## 🤖 AI & Productivity Tools
+## AI & Productivity
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Figma%20AI-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-</p>
+`GitHub Copilot` · `Cursor AI` · `ChatGPT` · `Figma AI` · `Google Stitch`
 
 ---
 
 # 🚀 Featured Projects
 
-## 🥇 E-Gold
+## 01 — E-Gold
 
 ### AI-Powered Gold Investment & AR Experience Platform
 
-**Tech Stack**
+**Technology**
 
 `React.js` `Framer Motion` `MediaPipe` `React Webcam` `react-i18next`
 
-### Key Features
+**Overview**
 
-- 💰 Digital gold investment platform
-- 🪞 AR virtual try-on
-- 🎬 Interactive UI animations
-- 🌐 Multilingual support
-- 📱 Mobile-focused experience
+A digital gold investment platform featuring an interactive AR experience and modern mobile-focused interface.
+
+**Highlights**
+
+- Digital gold investment platform
+- AR virtual try-on
+- MediaPipe integration
+- React Webcam integration
+- Framer Motion animations
+- Multilingual support
+- Responsive mobile experience
 
 ---
 
-## 📢 EGS ADS / EGA ADS
+## 02 — EGS ADS / EGA ADS
 
 ### Advertisement Work Management System
 
-**Tech Stack**
+**Technology**
 
-`React Native` `Node.js` `Express.js` `MongoDB` `Google Maps API` `REST APIs`
+`React Native` `Node.js` `Express.js` `MongoDB`
 
-### Key Features
+`Google Maps API` `REST APIs`
 
-- 📍 GPS tracking
-- 🗺️ Google Maps integration
-- 📌 Geofencing
-- 👥 Role-based dashboards
-- 📄 Automated PDF/PPT reporting
-- 🎞️ Interactive media features
+**Overview**
+
+A workforce and advertisement management application supporting location-based operations, role-based dashboards and automated reporting.
+
+**Highlights**
+
+- GPS tracking
+- Geofencing
+- Google Maps integration
+- Role-based dashboards
+- Automated PDF/PPT reporting
+- Interactive media features
 
 ---
 
-## 🏦 eBankix
+## 03 — eBankix
 
 ### Digital Banking Mobile Application
 
-**Tech Stack**
+**Technology**
 
 `React Native` `Expo` `JavaScript` `Figma`
 
-### Key Features
+**Highlights**
 
-- 🎨 Pixel-perfect UI
-- 👤 User onboarding
-- 🔐 Authentication
-- 💳 Transaction history
-- 🧩 Reusable components
-- 🧭 React Navigation
-- 📱 Android & iOS support
+- Figma-to-React-Native implementation
+- Pixel-perfect responsive screens
+- Reusable components
+- User onboarding
+- Authentication
+- Transaction history
+- Profile management
+- React Navigation
+- Android & iOS support
 
 ---
 
-## 🧵 Textile Admin Dashboard & E-Commerce
+## 04 — Textile Admin Dashboard
 
-### Textile Business Management Platform
+### Admin Dashboard & E-Commerce Platform
 
-**Tech Stack**
+**Technology**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-### Key Features
+**Highlights**
 
-- 📦 Inventory management
-- 📊 Analytics
-- 📈 Sales management
-- 📋 Stock monitoring
-- 👥 User management
-- 🔐 Role-Based Access Control
-- 🛒 E-Commerce functionality
-
----
-
-## 🧾 Billing & Invoice Management System
-
-### Retail / Enterprise Billing Platform
-
-**Tech Stack**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `PDFKit` `JsPDF` `REST APIs`
-
-### Key Features
-
-- 🧾 Dynamic invoice generation
-- 🧮 Real-time invoice calculations
-- 💰 GST / VAT processing
-- 🏷️ Discount management
-- 🔎 Product search
-- 💳 Payment tracking
-- 📄 PDF invoice generation
-- 🧾 Receipt generation
+- Inventory management
+- Sales management
+- Operations management
+- Analytics
+- Reporting
+- Stock monitoring
+- User management
+- Role-Based Access Control
+- E-Commerce functionality
 
 ---
 
-## 🏨 Trek N Stay
+## 05 — Billing & Invoice Management
+
+### Retail / Enterprise Billing System
+
+**Technology**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+`PDFKit` `JsPDF` `REST APIs`
+
+**Highlights**
+
+- Dynamic invoice creation
+- Real-time calculations
+- GST / VAT processing
+- Discount management
+- Product search
+- Payment tracking
+- Receipt management
+- PDF invoice generation
+
+---
+
+## 06 — Trek N Stay
 
 ### Travel & Accommodation Booking Platform
 
-**Tech Stack**
+**Technology**
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Google Maps API`
+`React.js` `Node.js` `Express.js` `MongoDB`
 
-### Key Features
+`Google Maps API`
 
-- 🏨 Accommodation discovery
-- 🗺️ Location-based search
-- 📅 Booking workflows
-- 📩 Enquiry management
-- 📱 Responsive UI
-- 🔗 API integrations
-- ⚡ Performance optimization
+**Highlights**
+
+- Accommodation discovery
+- Location-based search
+- Google Maps integration
+- Enquiry management
+- Booking workflows
+- Responsive interface
+- API integration
+- Application performance optimization
 
 ---
 
-# 📺 Hospitality Technology
+# 🏨 Hospitality Technology
 
-## 🏨 Hotel IPTV Platform
+## Hotel IPTV Platform
 
-A modern hospitality technology platform designed to provide hotel guests with an interactive **in-room entertainment and digital service experience**.
+A hospitality technology platform focused on providing guests with an interactive **in-room entertainment and digital service experience**.
 
-### Guest Experience Modules
+### Guest Experience
 
-| Module | Description |
+| Module | Experience |
 |---|---|
 | 📺 Live TV | Live television channels |
 | 🎬 Movies & Series | On-demand entertainment |
-| 📶 Wi-Fi | Guest Wi-Fi access |
-| 🍽️ Hotel Dining | Digital dining experience |
+| 📶 Wi-Fi | QR-based guest Wi-Fi access |
+| 🍽️ Dining | Digital hotel dining |
 | 🛎️ Room Service | In-room service requests |
 | 🧾 My Stay & Folio | Stay and billing information |
 | 🏨 Hotel Explore | Hotel facilities and information |
-| 🌍 Tourism | Local tourism information |
-| 🚗 Rentals | Vehicle and travel rentals |
+| 🌍 Tourism | Tourism information |
+| 🚗 Rentals | Vehicle & travel rentals |
 | 🚨 Emergency | Emergency information |
-| 🌤️ Weather | Weather and forecast |
-| 📱 Digital Services | Guest digital services |
+| 🌤️ Weather | Weather & forecast |
+| 📱 Digital Services | Guest services |
 
 ---
 
-# 💡 Other Development Areas
+# 🧩 Development Areas
 
 ```text
-┌─────────────────────────────────────────┐
-│          FULL STACK DEVELOPMENT         │
-├─────────────────────────────────────────┤
-│                                         │
-│  🌐 Web Applications                    │
-│  📱 Mobile Applications                 │
-│  📊 Admin Dashboards                    │
-│  🏨 Hospitality Platforms               │
-│  📺 IPTV / OTT Applications              │
-│  💬 Social Applications                 │
-│  🛒 E-Commerce Platforms                │
-│  🧾 Billing & Invoice Systems            │
-│  📈 Business Management Systems         │
-│  🗺️ Location-Based Applications         │
-│  🤖 AI / AR Experiences                 │
-│                                         │
-└─────────────────────────────────────────┘
+Web Development
+      │
+      ├── React.js
+      ├── Next.js
+      └── Responsive UI
+
+Mobile Development
+      │
+      ├── React Native
+      ├── Expo
+      └── React Navigation
+
+Backend Development
+      │
+      ├── Node.js
+      ├── Express.js
+      └── REST APIs
+
+Database
+      │
+      ├── MongoDB
+      ├── MySQL
+      └── Firebase
+
+Business Applications
+      │
+      ├── Admin Dashboards
+      ├── Billing Systems
+      ├── Advertisement Management
+      └── Hospitality Platforms
