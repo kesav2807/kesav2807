@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kesavan S
+# Hi, I'm Kesavan S
 
 <p align="center">
   <img
@@ -15,350 +15,278 @@
 
 <p align="center">
   <a href="https://github.com/kesav2807">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/kesavan-sk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://kesavan-sk.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=flat-square&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:kesevansunder007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  🇮🇳 Tamil Nadu, India
+  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm a **Junior Full Stack Developer** with experience in **MERN Stack and React Native**, focused on building reliable, responsive and user-friendly applications.
+I am a **Junior Full Stack Developer** specializing in the **MERN Stack and React Native**, focused on engineering high-performance web, cross-platform mobile, and Smart TV applications.
 
-I enjoy working across the complete development lifecycle — from designing interfaces and building reusable frontend components to developing APIs, integrating databases, implementing authentication and deploying applications.
+I manage the complete application lifecycle—from technical system design and modular frontend development to RESTful API creation, database structuring, authentication implementation, and cloud deployment.
 
-### My Development Focus
+### Core Competencies
 
-- ⚛️ React.js & React Native
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 🔗 REST API Development
-- 🔐 JWT Authentication & Authorization
-- 👥 Role-Based Access Control
-- 📊 Admin Dashboards
-- 📱 Cross-Platform Mobile Applications
-- 🧾 Billing & Invoice Management
-- 📄 PDF / PPT Report Generation
-- 🗺️ Google Maps API
-- 🧪 Cypress Testing
-- 🎨 Figma to Responsive UI
-- 🤖 AI-Assisted Development
+- React.js & React Native
+- Node.js & Express.js
+- MongoDB & Relational Databases
+- Smart TV Client Engineering (LG webOS / Spatial Navigation)
+- REST API Design & Microservices
+- JWT Authentication & Authorization Protocols
+- Role-Based Access Control (RBAC)
+- Real-Time Admin Dashboards & Operational Portals
+- Cross-Platform Android & iOS Applications
+- Billing Engines with POS QR & Barcode Scanning
+- Automated PDF & PPT Generation Engines
+- Google Maps API & Geofencing Integrations
+- End-to-End Testing with Cypress
+- UI Engineering from High-Fidelity Figma Systems
+- AI-Assisted Development & Optimization
 
-> 🦚 **Murugan Thunai — My energy, my backup.**
+> **Murugan Thunai — My energy, my backup.**
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ## Junior Developer
-
 ### Bharathi Media and Event Solutions
-
 `January 2026 – Present`
 
-- Develop and deploy Web & Mobile applications using **React, React Native and Node.js**.
-- Work on **Advertisement Management and Billing systems**.
-- Develop automated **PDF/PPT reporting workflows**.
-- Build and integrate REST APIs.
-- Work with end-to-end application testing using **Cypress**.
-- Contribute to enterprise applications and business workflows.
+- Design, build, and deploy enterprise web and mobile applications using **React, React Native, and Node.js**.
+- Engineer systems for **Advertisement Management, Field Operations, and Billing Platforms**.
+- Build automated **PDF and PPT document reporting workflows**.
+- Architect and integrate REST APIs with secure JWT authentication and validation pipelines.
+- Implement end-to-end integration and regression suites using **Cypress**.
+- Optimize responsive web views and native mobile performance across production environments.
 
 ---
 
 ## Software Developer Trainee Intern
-
 ### Spangles Infotech
-
 `May 2025 – December 2025`
 
-- Translated high-fidelity **Figma designs into React Native screens**.
-- Built reusable mobile UI components.
-- Implemented application navigation using **React Navigation**.
-- Developed the **Textile Admin Dashboard & E-Commerce platform**.
-- Implemented secure **Role-Based Access Control (RBAC)**.
-- Worked with React.js, React Native, Node.js, Express.js and MongoDB.
+- Translated complex **Figma design specifications into React Native screens**.
+- Created a modular library of reusable components for Android and iOS devices.
+- Structured application routing, tab systems, and navigation state using **React Navigation**.
+- Developed the full **Textile Admin Dashboard & E-Commerce platform**.
+- Implemented multi-tiered **Role-Based Access Control (RBAC)** across admin and client portals.
+- Developed full-stack modules utilizing React.js, React Native, Node.js, Express.js, and MongoDB.
 
 ---
 
 ## Software Developer
-
 ### Offer360 Technologies
 
-- Developed the **E-Gold digital gold investment platform**.
-- Implemented **AR virtual try-on** functionality.
-- Worked with **MediaPipe and React Webcam**.
-- Created interactive animations using **Framer Motion**.
-- Implemented multilingual support using **react-i18next**.
+- Engineered the **E-Gold digital gold investment platform** with real-time pricing feeds.
+- Developed an **Augmented Reality virtual try-on module** for retail products.
+- Integrated **MediaPipe computer vision models and React Webcam** for live feature tracking.
+- Implemented micro-interactions and layout transitions with **Framer Motion**.
+- Configured internationalization workflows using **react-i18next**.
 
 ---
 
-# 🧰 Tech Stack
+# Technology Stack
 
-## Frontend
+## Frontend & Mobile Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Stack" />
 </p>
 
-| Technology | Focus |
+| Technology | Implementation Scope |
 |---|---|
-| HTML5 | Semantic Web Development |
-| CSS3 | Responsive UI |
-| JavaScript | Application Development |
-| TypeScript | Type-Safe Development |
-| React.js | Web Applications |
-| React Native | Mobile Applications |
-| Next.js | Modern Web Applications |
-| Tailwind CSS | UI Development |
-| Bootstrap | Responsive Components |
+| HTML5 / CSS3 | Semantic page layouts, modern CSS Grid, Flexbox, and fluid viewports |
+| JavaScript (ES6+) | Asynchronous execution, DOM lifecycle control, and state utilities |
+| TypeScript | Type safety, static analysis, and enterprise component design |
+| React.js | Single Page Applications, functional components, hooks, and Context API |
+| React Native | Cross-platform mobile development for Android and iOS runtimes |
+| Next.js | Server-side rendering, static generation, and API routing |
+| Tailwind CSS | Utility-first CSS architectures and design token implementation |
+| Bootstrap | Responsive UI component styling and grid system integration |
 
 ---
 
-## Backend & Database
+## Backend, Database & Media Delivery
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" alt="Backend Stack" />
 </p>
 
-`Node.js` · `Express.js` · `MongoDB` · `MySQL` · `Firebase`
+`Node.js` • `Express.js` • `MongoDB` • `MySQL` • `Firebase` • `Supabase`
 
-`REST APIs` · `JWT` · `Authentication` · `Authorization`
+`REST APIs` • `JWT Authentication` • `RBAC Security` • `HLS Video Streaming`
 
 ---
 
-## Development Tools
+## DevOps, Version Control & Testing
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify" alt="DevOps Stack" />
 </p>
 
-`Git` · `GitHub` · `VS Code` · `Postman` · `MongoDB Compass`
+`Git` • `GitHub` • `VS Code` • `Postman` • `MongoDB Compass` • `Cypress`
 
-`Docker` · `Vercel` · `Netlify`
-
----
-
-## Design & Creative Tools
-
-`Figma` · `Canva` · `Photoshop` · `CapCut`
+`Docker` • `Vercel` • `Netlify` • `Render`
 
 ---
 
-## AI & Productivity
+## Design Systems & AI Tooling
 
-`GitHub Copilot` · `Cursor AI` · `ChatGPT` · `Figma AI` · `Google Stitch`
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Stack" />
+</p>
+
+`Figma` • `Canva` • `Adobe Photoshop` • `GitHub Copilot` • `Cursor AI` • `Google Stitch`
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 01 — E-Gold
+## 01 — Hotel IPTV & Digital Guest Experience Suite
+### Hospitality Entertainment & Guest Operations Platform
 
-### AI-Powered Gold Investment & AR Experience Platform
-
-**Technology**
-
-`React.js` `Framer Motion` `MediaPipe` `React Webcam` `react-i18next`
+**Stack:** `React.js` `LG webOS` `Node.js` `Express.js` `MongoDB` `HLS Streaming` `Tailwind CSS`
 
 **Overview**
+A three-tier digital hospitality ecosystem comprising an in-room Smart TV application, a guest-facing mobile ordering web application, and a real-time operations dashboard.
 
-A digital gold investment platform featuring an interactive AR experience and modern mobile-focused interface.
-
-**Highlights**
-
-- Digital gold investment platform
-- AR virtual try-on
-- MediaPipe integration
-- React Webcam integration
-- Framer Motion animations
-- Multilingual support
-- Responsive mobile experience
+**Key Deliverables**
+- **Smart TV Client:** Custom spatial keydown navigation designed for physical remote controls on LG webOS.
+- **HLS Video Streaming:** Live television feed integration with optimized player controls and category sorting.
+- **Guest QR Food Ordering:** Mobile web application allowing guests to scan room QR codes, customize menu items, and send orders straight to the kitchen.
+- **Service Request Hub:** Real-time ticketing for housekeeping, reception messaging, and order tracking.
+- **Operations Console:** Multi-role admin management for hotel staff, kitchen dispatch queues, and dynamic channel/content updates.
 
 ---
 
-## 02 — EGS ADS / EGA ADS
+## 02 — E-Gold
+### AI-Powered Gold Investment & AR Try-On Platform
 
-### Advertisement Work Management System
-
-**Technology**
-
-`React Native` `Node.js` `Express.js` `MongoDB`
-
-`Google Maps API` `REST APIs`
+**Stack:** `React.js` `Framer Motion` `MediaPipe` `React Webcam` `react-i18next`
 
 **Overview**
+A web-based digital asset investment solution offering secure gold transactions paired with camera-based virtual try-on tools.
 
-A workforce and advertisement management application supporting location-based operations, role-based dashboards and automated reporting.
-
-**Highlights**
-
-- GPS tracking
-- Geofencing
-- Google Maps integration
-- Role-based dashboards
-- Automated PDF/PPT reporting
-- Interactive media features
+**Key Deliverables**
+- Real-time digital gold value tracking and transactional state handling.
+- Computer vision facial and feature tracking via MediaPipe.
+- Real-time video processing pipelines with React Webcam.
+- Hardware-accelerated UI animations using Framer Motion.
+- Complete multi-language support configured via react-i18next.
 
 ---
 
-## 03 — eBankix
+## 03 — EGA ADS / EGS ADS
+### Advertisement Workflow & Field Operations Engine
 
+**Stack:** `React Native` `Node.js` `Express.js` `MongoDB` `Google Maps API` `REST APIs`
+
+**Overview**
+An enterprise workforce automation platform providing field agent verification, asset tracking, and client-facing reporting tools.
+
+**Key Deliverables**
+- Live GPS tracking, route monitoring, and geofenced radius verification.
+- Google Maps API integration for precise outdoor asset positioning.
+- Role-based operational dashboards for field staff, supervisors, and management.
+- Dynamic data pipeline for automated PDF and PPT presentation generation.
+- Media upload and verification validation pipeline.
+
+---
+
+## 04 — eBankix
 ### Digital Banking Mobile Application
 
-**Technology**
+**Stack:** `React Native` `Expo` `JavaScript` `Figma` `React Navigation`
 
-`React Native` `Expo` `JavaScript` `Figma`
-
-**Highlights**
-
-- Figma-to-React-Native implementation
-- Pixel-perfect responsive screens
-- Reusable components
-- User onboarding
-- Authentication
-- Transaction history
-- Profile management
-- React Navigation
-- Android & iOS support
+**Key Deliverables**
+- Direct conversion of high-fidelity Figma components into native mobile views.
+- Modular code architecture with unified card, input, and balance components.
+- User authentication and onboarding state machines.
+- Transaction history views with multi-parameter filter controls.
+- Optimized performance across both Android and iOS devices.
 
 ---
 
-## 04 — Textile Admin Dashboard
+## 05 — Retail Billing & Invoicing Engine
+### Desktop Point-of-Sale (POS) System
 
-### Admin Dashboard & E-Commerce Platform
+**Stack:** `React.js` `Electron` `Node.js` `Express.js` `MongoDB` `PDFKit` `JsPDF`
 
-**Technology**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
-**Highlights**
-
-- Inventory management
-- Sales management
-- Operations management
-- Analytics
-- Reporting
-- Stock monitoring
-- User management
-- Role-Based Access Control
-- E-Commerce functionality
-
----
-
-## 05 — Billing & Invoice Management
-
-### Retail / Enterprise Billing System
-
-**Technology**
-
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-`PDFKit` `JsPDF` `REST APIs`
-
-**Highlights**
-
-- Dynamic invoice creation
-- Real-time calculations
-- GST / VAT processing
-- Discount management
-- Product search
-- Payment tracking
-- Receipt management
-- PDF invoice generation
+**Key Deliverables**
+- Hardware barcode and QR scanner keyboard input handling for rapid item checkout.
+- Automated calculation of subtotals, item-level discounts, and multi-tier GST/VAT rates.
+- Instant receipt and tax invoice rendering into PDF format.
+- Cash register reconciliations, sales ledger logs, and inventory updates.
 
 ---
 
 ## 06 — Trek N Stay
+### Travel, Stays & Adventure Booking Platform
 
-### Travel & Accommodation Booking Platform
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Google Maps API`
 
-**Technology**
-
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-`Google Maps API`
-
-**Highlights**
-
-- Accommodation discovery
-- Location-based search
-- Google Maps integration
-- Enquiry management
-- Booking workflows
-- Responsive interface
-- API integration
-- Application performance optimization
+**Key Deliverables**
+- Property and experience discovery portal designed for individual and group travel.
+- Map-assisted property search with radius calculation.
+- Reservation request and host messaging system.
+- Responsive mobile web interface built for varied network conditions.
 
 ---
 
-# 🏨 Hospitality Technology
+# Hospitality System Architecture
 
-## Hotel IPTV Platform
-
-A hospitality technology platform focused on providing guests with an interactive **in-room entertainment and digital service experience**.
-
-### Guest Experience
-
-| Module | Experience |
-|---|---|
-| 📺 Live TV | Live television channels |
-| 🎬 Movies & Series | On-demand entertainment |
-| 📶 Wi-Fi | QR-based guest Wi-Fi access |
-| 🍽️ Dining | Digital hotel dining |
-| 🛎️ Room Service | In-room service requests |
-| 🧾 My Stay & Folio | Stay and billing information |
-| 🏨 Hotel Explore | Hotel facilities and information |
-| 🌍 Tourism | Tourism information |
-| 🚗 Rentals | Vehicle & travel rentals |
-| 🚨 Emergency | Emergency information |
-| 🌤️ Weather | Weather & forecast |
-| 📱 Digital Services | Guest services |
+| Architecture Tier | Target Environment | Technical Capabilities |
+|---|---|---|
+| In-Room Display Client | LG webOS / Smart TV | Remote Control D-Pad Focus • HLS Live Video • Local Forecasts • Property Directory |
+| Guest Service Portal | Mobile Web (QR Activated) | Digital Food Menu • Kitchen Order Dispatch • Housekeeping Requests • Digital Folio |
+| Operations Console | Web Desktop Admin | Live Order Board • Channel Management • Role-Based Access Control (RBAC) |
 
 ---
 
-# 🧩 Development Areas
+# Technical Architecture & Ecosystem Map
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,electron,figma" alt="Ecosystem Architecture" />
+</p>
 
 ```text
-Web Development
-      │
-      ├── React.js
-      ├── Next.js
-      └── Responsive UI
-
-Mobile Development
-      │
-      ├── React Native
-      ├── Expo
-      └── React Navigation
-
-Backend Development
-      │
-      ├── Node.js
-      ├── Express.js
-      └── REST APIs
-
-Database
-      │
-      ├── MongoDB
-      ├── MySQL
-      └── Firebase
-
-Business Applications
-      │
-      ├── Admin Dashboards
-      ├── Billing Systems
-      ├── Advertisement Management
-      └── Hospitality Platforms
+KESAVAN S -- FULL STACK APPLICATION ARCHITECTURE
+|
++-- [WEB] Web Application Layer
+|   |-- Core: React.js / Next.js / Tailwind CSS / Framer Motion
+|   |-- Project: E-Gold (Digital Gold Platform & AR Virtual Try-On)
+|   |-- Project: Trek N Stay (Property Booking & Location Search)
+|   +-- Project: Textile E-Commerce (Inventory & Storefront System)
+|
++-- [CLIENT] Mobile & Smart TV Engineering
+|   |-- Core: React Native / Expo / LG webOS / Spatial Key Navigation
+|   |-- Project: Hotel IPTV (In-Room Entertainment & Live HLS Feeds)
+|   |-- Project: Guest QR Portal (Zero-Install Food & Service Ordering)
+|   +-- Project: eBankix (Digital Banking Mobile Architecture)
+|
++-- [API] Backend Infrastructure & Media Services
+|   |-- Core: Node.js / Express.js / RESTful Microservices
+|   |-- Security: JWT Authentication / Role-Based Access Control (RBAC)
+|   |-- Storage: MongoDB / MySQL / Firebase / Supabase
+|   +-- Video: HTTP Live Streaming (HLS) / Adaptive Bitrate Playback
+|
++-- [ENTERPRISE] Operations & Business Solutions
+    |-- Project: EGA ADS (Field Workforce Tracking & Geofencing Engine)
+    |-- Project: POS Billing (Electron Desktop / QR & Barcode / PDFKit)
+    +-- Project: Hospitality Admin (Kitchen Queues & Channel CMS)
