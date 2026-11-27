@@ -1,10 +1,16 @@
-# Kesavan S
+<div align="center">
+  <img src="assets/profile-banner.png" width="100%" alt="Kesavan S - Full Stack Developer" />
+</div>
 
-### Full Stack Developer | MERN Stack | React Native Developer
-
-**1.5+ Years of Development Experience | Building Modern Web & Mobile Applications**
+<br/>
 
 <div align="center">
+
+# Kesavan S
+
+### Full Stack Developer | MERN Stack | React Native
+
+**1.5+ Years of Development Experience | Building Modern Web & Mobile Applications**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kesav2807-181717?style=for-the-badge&logo=github)](https://github.com/kesav2807)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kesavan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kesavan-sk/)
@@ -52,14 +58,14 @@ My experience covers frontend development, backend API integration, database man
 ### Junior Developer — Smart Digital Service
 **January 2026 – Present**
 
-- Developing and maintaining modern web and mobile applications.
-- Building frontend interfaces using React.js and React Native.
-- Developing backend services and REST APIs using Node.js and Express.js.
-- Working on advertisement management and billing applications.
-- Implementing automated PDF and PowerPoint reporting workflows.
-- Integrating authentication, validation and database operations.
-- Performing end-to-end application testing using Cypress.
-- Improving application performance and responsive UI experiences.
+- Develop and maintain modern web and mobile applications.
+- Build frontend interfaces using React.js and React Native.
+- Develop backend services and REST APIs using Node.js and Express.js.
+- Work on advertisement management and billing applications.
+- Implement automated PDF and PowerPoint reporting workflows.
+- Integrate authentication, validation and database operations.
+- Perform end-to-end application testing using Cypress.
+- Improve application performance and responsive UI experiences.
 
 **Key Achievements**
 - Delivered two live enterprise applications.
@@ -76,9 +82,9 @@ My experience covers frontend development, backend API integration, database man
 - Worked with React.js, React Native, Node.js, Express.js and MongoDB.
 - Improved responsive layouts and frontend performance.
 
-**Key Achievement**
+**Key Achievements**
 - Improved inventory-tracking efficiency by 30%.
-- Achieved pixel-perfect UI implementation across application screens.
+- Delivered pixel-focused UI implementation across application screens.
 
 ### Software Developer — Offer360 Technologies
 **Dates not specified**
@@ -104,7 +110,7 @@ My experience covers frontend development, backend API integration, database man
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 ### Mobile Development
@@ -116,7 +122,7 @@ My experience covers frontend development, backend API integration, database man
 ### Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
 ![REST API](https://img.shields.io/badge/REST_API-6A0DAD?style=flat-square)
 
 ### Database & Cloud
@@ -247,15 +253,13 @@ A hospitality platform connecting in-room Smart TV experiences, guest services a
 ### Master of Computer Applications (MCA)
 
 **RVS College of Arts and Science**  
-Bharathiar University  
-2023 – 2025  
+Bharathiar University | 2023 – 2025  
 **CGPA: 8.30 / 10**
 
 ### Bachelor of Commerce (B.Com)
 
 **N.M.S.S. Vellaichamy Nadar College**  
-Madurai Kamaraj University  
-2020 – 2023  
+Madurai Kamaraj University | 2020 – 2023  
 **CGPA: 5.90 / 10**
 
 ---
