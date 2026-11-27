@@ -1,32 +1,43 @@
-<!-- ====================================================== -->
-<!--                  KESAVAN S - PROFILE                   -->
-<!-- ====================================================== -->
-
-<div align="center">
-
 # Kesavan S
 
-### Junior Full Stack Developer | MERN Stack | React Native
+### Full Stack Developer | MERN Stack | React Native Developer
 
-Building modern web applications, mobile apps and business solutions.
+**1.5+ Years of Development Experience | Building Modern Web & Mobile Applications**
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-kesav2807-181717?style=for-the-badge&logo=github)](https://github.com/kesav2807)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kesavan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kesavan-sk/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6A0DAD?style=for-the-badge&logo=googlechrome)](https://kesavan-sk.web.app)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:kesevansunder007@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=6A0DAD&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Development;React+Native+Applications;REST+API+Development;AI-Enabled+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=6A0DAD&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Development;React+Native+Applications;REST+API+Development;AI-Powered+Applications;Building+Digital+Products" alt="Typing SVG" />
 
 </div>
 
 ---
 
+## Professional Overview
+
+<div align="center">
+
+| Experience | Organizations | Featured Projects |
+|:---:|:---:|:---:|
+| **1.5+ Years** | **3** | **9+** |
+| Development Experience | Professional Experience | Web & Mobile Applications |
+
+</div>
+
 ## About Me
 
-I am a Full Stack Developer experienced in the MERN stack and React Native. I enjoy developing user-friendly web and mobile applications, admin dashboards, business tools and integrated digital products.
+I am a Full Stack Developer with 1.5+ years of development experience, specializing in MERN stack technologies and React Native application development.
 
-My development experience includes frontend development, backend API integration, database management, authentication, responsive UI design, testing and deployment.
+I enjoy building modern, scalable and user-friendly web applications, mobile applications, admin dashboards, business management systems and AI-powered digital solutions.
 
+My experience covers frontend development, backend API integration, database management, authentication, responsive UI/UX design, testing and deployment.
+
+- **Experience:** 1.5+ Years
+- **Current Role:** Junior Developer
 - **Primary Stack:** React.js, React Native, Node.js, Express.js, MongoDB
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express.js, REST APIs
@@ -41,14 +52,16 @@ My development experience includes frontend development, backend API integration
 ### Junior Developer — Smart Digital Service
 **January 2026 – Present**
 
-- Develop and deploy web and mobile applications using React, React Native and Node.js.
-- Work on advertisement management and billing systems.
-- Build automated PDF and PowerPoint reporting workflows.
-- Develop and integrate REST APIs with authentication and validation.
-- Implement end-to-end testing using Cypress.
-- Improve application performance and responsive UI experiences.
+- Developing and maintaining modern web and mobile applications.
+- Building frontend interfaces using React.js and React Native.
+- Developing backend services and REST APIs using Node.js and Express.js.
+- Working on advertisement management and billing applications.
+- Implementing automated PDF and PowerPoint reporting workflows.
+- Integrating authentication, validation and database operations.
+- Performing end-to-end application testing using Cypress.
+- Improving application performance and responsive UI experiences.
 
-**Selected Achievements**
+**Key Achievements**
 - Delivered two live enterprise applications.
 - Reduced invoice processing time by 40%.
 - Improved advertisement engagement by 25%.
@@ -57,29 +70,34 @@ My development experience includes frontend development, backend API integration
 **May 2025 – December 2025**
 
 - Converted Figma designs into React Native application screens.
-- Built reusable mobile components and application navigation.
-- Developed a Textile Admin Dashboard and E-Commerce platform.
+- Developed reusable mobile components and application navigation.
+- Built a Textile Admin Dashboard and E-Commerce platform.
 - Implemented role-based access control.
 - Worked with React.js, React Native, Node.js, Express.js and MongoDB.
+- Improved responsive layouts and frontend performance.
 
-**Selected Achievement**
+**Key Achievement**
 - Improved inventory-tracking efficiency by 30%.
+- Achieved pixel-perfect UI implementation across application screens.
 
 ### Software Developer — Offer360 Technologies
+**Dates not specified**
 
 - Worked on the E-Gold digital gold investment platform.
 - Developed AR virtual try-on features using MediaPipe and React Webcam.
 - Implemented interface animations using Framer Motion.
 - Added multilingual support using react-i18next.
+- Improved frontend experience and interactive application features.
 
-**Selected Achievement**
-- Increased platform engagement by 35%.
+**Key Achievement**
+- Contributed to a 35% improvement in platform engagement.
 
 ---
 
 ## Technical Skills
 
 ### Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -87,35 +105,40 @@ My development experience includes frontend development, backend API integration
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 ### Mobile Development
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo)
 ![React Navigation](https://img.shields.io/badge/React_Navigation-6B52AE?style=flat-square)
 
 ### Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
 ![REST API](https://img.shields.io/badge/REST_API-6A0DAD?style=flat-square)
 
 ### Database & Cloud
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress)
 
-### AI & Productivity Tools
+### AI & Development Tools
 
-- ChatGPT and OpenAI tools
+- OpenAI API
+- ChatGPT
 - GitHub Copilot
 - Cursor AI
 - Google Stitch
@@ -125,7 +148,7 @@ My development experience includes frontend development, backend API integration
 
 ## Featured Projects
 
-### 1. Hotel IPTV & Digital Guest Experience Platform
+### 01. Hotel IPTV & Digital Guest Experience Platform
 
 **Technologies:** React.js, LG webOS, Node.js, Express.js, MongoDB, HLS, Tailwind CSS
 
@@ -136,18 +159,19 @@ A hospitality platform connecting in-room Smart TV experiences, guest services a
 - QR-based guest food ordering.
 - Housekeeping and room-service requests.
 - Hotel operations dashboard and content management.
-- Role-based access for different users.
+- Role-based access for Super Admin, Distributor and Hotel Admin.
 
-### 2. E-Gold — Digital Gold & AR Experience
+### 02. E-Gold — Digital Gold & AR Experience
 
 **Technologies:** React.js, MediaPipe, React Webcam, Framer Motion, react-i18next
 
-- Digital gold investment experience with real-time value tracking.
+- Digital gold investment experience.
 - Camera-based AR virtual try-on.
 - Computer-vision integration using MediaPipe.
-- Animated interactions and multilingual support.
+- Animated interactions.
+- Multilingual application support.
 
-### 3. EGA ADS / EGS ADS — Advertisement Work Management
+### 03. EGA ADS / EGS ADS — Advertisement Work Management
 
 **Technologies:** React Native, Node.js, Express.js, MongoDB, Google Maps API
 
@@ -157,7 +181,7 @@ A hospitality platform connecting in-room Smart TV experiences, guest services a
 - Media upload and verification workflows.
 - Automated PDF and PowerPoint reporting.
 
-### 4. eBankix — Digital Banking Mobile Application
+### 04. eBankix — Digital Banking Mobile Application
 
 **Technologies:** React Native, Expo, JavaScript, Figma, React Navigation
 
@@ -167,7 +191,7 @@ A hospitality platform connecting in-room Smart TV experiences, guest services a
 - Reusable components and mobile navigation.
 - Android and iOS support.
 
-### 5. Textile Admin Dashboard & E-Commerce Platform
+### 05. Textile Admin Dashboard & E-Commerce Platform
 
 **Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
@@ -175,8 +199,9 @@ A hospitality platform connecting in-room Smart TV experiences, guest services a
 - Stock monitoring and sales analytics.
 - Admin dashboard and user management.
 - Role-based access control.
+- Responsive product-management interface.
 
-### 6. Billing & Invoice Management System
+### 06. Billing & Invoice Management System
 
 **Technologies:** React.js, Node.js, Express.js, MongoDB, PDFKit, jsPDF
 
@@ -186,7 +211,7 @@ A hospitality platform connecting in-room Smart TV experiences, guest services a
 - Barcode and QR scanner input.
 - Sales and inventory workflows.
 
-### 7. Trek N Stay — Travel & Accommodation Platform
+### 07. Trek N Stay — Travel & Accommodation Platform
 
 **Technologies:** React.js, Node.js, Express.js, MongoDB, Google Maps API
 
@@ -195,7 +220,7 @@ A hospitality platform connecting in-room Smart TV experiences, guest services a
 - Booking and enquiry workflows.
 - Responsive web experience.
 
-### 8. Rajaraja Cholan — AI Voice Agent
+### 08. Rajaraja Cholan — AI Voice Agent
 
 **Technologies:** React.js, Node.js, Express.js, OpenAI API, MongoDB Atlas, RAG
 
@@ -205,7 +230,7 @@ A hospitality platform connecting in-room Smart TV experiences, guest services a
 - Voice input and AI-generated responses.
 - Historical persona-based conversation experience.
 
-### 9. Q Crackers — E-Commerce & Billing Platform
+### 09. Q Crackers — E-Commerce & Billing Platform
 
 **Technologies:** React.js, Node.js, Express.js, MongoDB
 
@@ -220,18 +245,22 @@ A hospitality platform connecting in-room Smart TV experiences, guest services a
 ## Education
 
 ### Master of Computer Applications (MCA)
+
 **RVS College of Arts and Science**  
+Bharathiar University  
 2023 – 2025  
-CGPA: **8.30 / 10**
+**CGPA: 8.30 / 10**
 
 ### Bachelor of Commerce (B.Com)
+
 **N.M.S.S. Vellaichamy Nadar College**  
+Madurai Kamaraj University  
 2020 – 2023  
-CGPA: **5.90 / 10**
+**CGPA: 5.90 / 10**
 
 ---
 
-## GitHub Overview
+## GitHub Statistics
 
 <div align="center">
 
